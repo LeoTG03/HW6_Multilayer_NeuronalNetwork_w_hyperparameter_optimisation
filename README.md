@@ -38,19 +38,12 @@ Es importante tomar en cuenta el orden de las celdas ya que esto afecta el flujo
 
 ---------Dependencias necesarias-----------
 -------------------------------------------
-python3
-
-jupyter
-
-numpy
-
-pandas
-
-matplotlib
-
-tensorflow / keras
-
-scikit-learn
+- python3
+- jupyter
+- numpy
+- pandasmatplotlib
+- tensorflow / keras
+- scikit-learn
 
 Forma posible para su instalación:
 
