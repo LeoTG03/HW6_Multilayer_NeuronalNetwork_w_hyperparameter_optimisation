@@ -21,3 +21,12 @@ El modelo consiste en una red neuronal multilayer donde:
   * Se evalúa el desempeño mediante métricas de validación
 
 Durante el entrenamiento se aplican técnicas como ajuste de hiperparámetros y early stopping para mejorar el rendimiento del modelo.
+
+---------Dependencias necesarias-----------
+python3
+jupyter
+numpy
+pandas
+matplotlib
+tensorflow / keras
+scikit-learn
