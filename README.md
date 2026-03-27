@@ -23,6 +23,7 @@ El modelo consiste en una red neuronal multilayer donde:
 Durante el entrenamiento se aplican técnicas como ajuste de hiperparámetros y early stopping para mejorar el rendimiento del modelo.
 
 ---------Dependencias necesarias-----------
+-------------------------------------------
 python3
 jupyter
 numpy
