@@ -22,6 +22,18 @@ El modelo consiste en una red neuronal multilayer donde:
 
 Durante el entrenamiento se aplican técnicas como ajuste de hiperparámetros y early stopping para mejorar el rendimiento del modelo.
 
+------------
+Ejecución del programa
+------------
+
+Para ejecutar el proyecto:
+
+1- Abrir Jupyter Notebook
+2- Cargar el archivo .ipynb
+3- Ejecutar todas las celdas en orden
+
+Es importante tomar en cuenta el orden de las celdas ya que esto afecta el flujo del proyecto desde el procesamiento de datos hasta los resultados finales.
+
 ---------Dependencias necesarias-----------
 -------------------------------------------
 python3
@@ -31,3 +43,6 @@ pandas
 matplotlib
 tensorflow / keras
 scikit-learn
+
+Forma posible para su instalación:
+python3 -m pip install numpy pandas matplotlib scikit-learn tensorflow jupyter
